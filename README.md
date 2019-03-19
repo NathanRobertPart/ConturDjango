@@ -1,7 +1,5 @@
 # Contur Results and Data (Cord)
 
-This repository contains all of the code for the MSc Scientific Computing project (2018). 
-
 Cord consists of a network of database tables that link to a web interface. These are built around [Contur (Constraints On New Theories Using Rivet)](http://contur.hepforge.org/),
 and focus on providing tools for collaboration, reproducibility of results, and data analysis.
 
