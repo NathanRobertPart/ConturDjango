@@ -18,7 +18,7 @@ et-xmlfile==1.0.1
 funcsigs==1.0.2
 future==0.16.0
 jdcal==1.4
-Jinja2==2.10
+Jinja2==2.11.3
 kiwisolver==1.0.1
 latex==0.7.0
 MarkupSafe==1.0
