@@ -37,7 +37,7 @@ pyparsing==2.2.0
 PyPDF2==1.26.0
 python-dateutil==2.7.3
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.4
 scipy==1.1.0
 selenium==3.14.0
 shutilwhich==1.1.0
