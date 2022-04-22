@@ -34,7 +34,7 @@ pandas==0.23.0
 pbr==4.1.0
 Pillow==5.2.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.7.3
 pytz==2018.4
 PyYAML==3.12
